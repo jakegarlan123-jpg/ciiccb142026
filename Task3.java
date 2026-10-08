@@ -1,6 +1,6 @@
 public class Task3{
     public static void main(String[] args){
-        String a = "";
+        String a = new String("");
         String b = a;
         String c = "!";
         String d = c;

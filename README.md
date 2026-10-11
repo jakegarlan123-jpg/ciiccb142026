@@ -59,8 +59,17 @@
 - Number - +639063560292
 - Address - Malate, Manila, PH
 
+## Key Skills
+- Communication skill 
+- Teamwork
+- Organization skills
+- Customer service
+- Problem-Solving
+- Time Management
+- Multitasking
+- Positive attitude
+- Market Analysis
 
----
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

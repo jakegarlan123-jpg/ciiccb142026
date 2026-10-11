@@ -51,7 +51,9 @@ statements and payment gateways.
 delays or user issues.
 ###### - Handling email inquires.
 
-
+## Education
+###### - Bachelor of Science in Information Technology - 2011 - 2015
+###### - Sorsogon State University - Bulan Campus
 ## Information
 ###### - Email - Jakegarlan123@gmail.com
 ###### - Number - +639063560292

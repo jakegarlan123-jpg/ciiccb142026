@@ -19,7 +19,7 @@
 ###### - Adjust live, in-play odds as matches evolve using game data.
 ###### - Risk management: Monitor liability, exposure nad betting limits to minimixe financial risk.
 ###### - Match tracking: Watch live video streams and data feeds for team line-ups and momentum
-shifts.
+###### shifts.
 
 
 - QA Tester, Elevated Play Inc - Nov 2022 - May 2023
@@ -36,7 +36,7 @@ shifts.
 ###### - Reconcile Accounts: Match incoming and outgoing funds againts system logs, bank
 ###### statements and payment gateways.
 ###### - Coordinate with Teams: Work with customer support and risk department to resolve payment
-delays or user issues.
+###### delays or user issues.
 
 - Google Map Mnnotator, Infinix [freelance] - Nov 2020 - Jan 2021
 ###### - Labeling buildings/houses.

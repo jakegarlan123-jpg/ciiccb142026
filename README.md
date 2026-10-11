@@ -30,11 +30,11 @@ shifts.
 ###### - Collaborate with the QA team and developers to improve product quality.
 ###### - Ensure applications meet functional and usability standards
 
-- Payment Officer, Kavsion Limited Holdings - JAVA Developer - May 2021 - Sept 2021
+- Payment Officer, Kavsion Limited Holdings - May 2021 - Sept 2021
 ###### - Process transactions: Review and execute player deposit and withdrawal requests accurately
-and quickly.
+###### and quickly.
 ###### - Reconcile Accounts: Match incoming and outgoing funds againts system logs, bank
-statements and payment gateways.
+###### statements and payment gateways.
 ###### - Coordinate with Teams: Work with customer support and risk department to resolve payment
 delays or user issues.
 
@@ -44,20 +44,20 @@ delays or user issues.
 
 - Client Service Associate, Sparva Inc. - Jan 2016 - Jan 2021
 ###### - Process transactions: Review and execute player deposit and withdrawal requests accurately
-and quickly.
+######  and quickly.
 ###### - Reconcile Accounts: Match incoming and outgoing funds againts system logs, bank
-statements and payment gateways.
+###### statements and payment gateways.
 ###### - Coordinate with Teams: Work with customer support and risk department to resolve payment
-delays or user issues.
+###### delays or user issues.
 ###### - Handling email inquires.
 
 ## Education
-###### - Bachelor of Science in Information Technology - 2011 - 2015
-###### - Sorsogon State University - Bulan Campus
+ - Bachelor of Science in Information Technology - 2011 - 2015
+ - Sorsogon State University - Bulan Campus
 ## Information
-###### - Email - Jakegarlan123@gmail.com
-###### - Number - +639063560292
-###### - Address - Malate, Manila, PH
+- Email - Jakegarlan123@gmail.com
+- Number - +639063560292
+- Address - Malate, Manila, PH
 
 
 ---

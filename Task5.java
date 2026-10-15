@@ -15,13 +15,13 @@ public class Task5 {
         
         if (a==b && b==c) {
             System.out.println("All numbers are equal");
-        } else if(a>b){
-            System.out.println("the largest number is: "+ a);
-        } else if(b>c){
-            System.out.println("the largest number is: "+ b);
-        }else{
-            System.out.println("the largest number is: "+ c);
-        } 
+        } else if(a>b && a>c){
+            System.out.println("The largest number is: "+ a);
+        } else if(b>a && b>c){
+            System.out.println("The largest number is: "+ b);
+        } else{
+            System.out.println("The largest number is: "+ c);
+        }     
 
         scanner.close();
                 

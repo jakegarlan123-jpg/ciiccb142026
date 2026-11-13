@@ -2,9 +2,9 @@ public class Task13 {
 
     
     static class Vehicle {
-        protected String make;
-        protected String model;
-        protected int year;
+        String make;
+        String model;
+        int year;
 
         public Vehicle(String make, String model, int year) {
             this.make = make;
